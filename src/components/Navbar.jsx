@@ -4,9 +4,11 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="bg-gray-800 text-white py-4">
+    <header className="bg-gray-800 text-white py-4 w-screen">
       <nav className="flex items-center justify-between px-4">
-      <a href="/" className="text-xl font-bold">Boredom Buster</a>
+        <a href="/" className="text-xl font-bold">
+          Boredom Buster
+        </a>
         <div className="flex items-center justify-between px-4">
           <ul className="flex items-center justify-between px-4">
             <li>

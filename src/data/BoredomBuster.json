@@ -74,7 +74,7 @@
     "title": "Make Some Sick Beats",
     "link": "https://www.patatap.com/",
     "description": "They even have matching visuals to complement the sounds. Jam out with your friends for a guaranteed good time!",
-    "imageSrc": "./src/assets/images/boredomBuster/patatap.png"
+    "imageSrc": "./src/assets/images/boredomBuster/replace.png"
   },
 
   {
@@ -280,7 +280,7 @@
     "title": "Radio Garden",
     "link": "http://radio.garden/",
     "description": "Ever wanted to hear what the radio was like in Paris or in Tokyo? Travel through the airwaves and see what is playing in local cities (literally any city) in real time.",
-    "img": "./src/assets/images/boredomBuster/radio_garden.png"
+    "img": "./src/assets/images/boredomBuster/radio-garden.png"
   },
   {
     "title": "Music Theory",

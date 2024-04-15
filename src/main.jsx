@@ -5,6 +5,7 @@ import "./index.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero.jsx";
 import ActivityComponent from "./components/ActivityComponent.jsx";
+import Footer from "./components/Footer.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
@@ -12,5 +13,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <Hero />
     <ActivityComponent />
     <App />
+    <Footer />
   </React.StrictMode>
 );

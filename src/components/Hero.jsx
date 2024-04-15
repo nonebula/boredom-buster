@@ -40,7 +40,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className="">
+    <section className="w-screen">
       <div className="bg-blue-500 text-white py-4 px-6">
         <h1 className="text-4xl font-bold mb-8 mt-8">
           Welcome to the Boredom Buster
