@@ -4,13 +4,13 @@ import App from "./App.jsx";
 import "./index.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero.jsx";
-import MainFeature from "./components/MainFeature.jsx";
+import ActivityComponent from "./components/ActivityComponent.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Navbar />
     <Hero />
-    <MainFeature />
+    <ActivityComponent />
     <App />
   </React.StrictMode>
 );
