@@ -24,7 +24,7 @@ class ActivityComponent extends Component {
     const { randomActivity } = this.state;
 
     return (
-      <div className="flex-column centre">
+      <div className="flex flex-col items-center justify-center m-5">
         <h3 className="text-6xl mt-10 font-bold text-center">
           Looking for Something to Do?
         </h3>
@@ -35,11 +35,11 @@ class ActivityComponent extends Component {
           {randomActivity.link}
         </a>
         <img
-          className="max-h-300 max-w-300 min-h-300 min-w-300 justify-center text-center"
+          className="max-h-2/3 max-w-2/3 min-h-2/3 min-w-2/3 justify-center text-center place-content-center content-center h-2/3 w-2/3"
           src={randomActivity.imageSrc}
           alt="Activity image"
         />
-        <p className="text-center">{randomActivity.description}</p>
+        <p className="text-center m-8">{randomActivity.description}</p>
         <div className="flex flex-row justify-evenly text-center">
           <button
             onClick={() => window.open(randomActivity.link)}

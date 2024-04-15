@@ -142,248 +142,248 @@
     "title": "MapCrunch",
     "link": "https://www.mapcrunch.com/",
     "description": "This site gives you a random Google map from anywhere in the world and all you have to do is explore.",
-    "img": "./src/assets/images/boredomBuster/map-crunch.png"
+    "imageSrc": "./src/assets/images/boredomBuster/map-crunch.png"
   },
   {
     "title": "The Useless Web",
     "link": "https://theuselessweb.com/",
     "description": "Want to see what the Internet truly has to offer? Take a peek at The Useless Web to see what truly is out there.",
-    "img": "./src/assets/images/boredomBuster/useless.png"
+    "imageSrc": "./src/assets/images/boredomBuster/useless.png"
   },
   {
     "title": "Hacker Typer",
     "link": "https://hackertyper.net/",
     "description": "Want to feel like you’re in The Matrix? Or at least feel like a super cool computer hacker trying to break into some evil lair? Just open up this site and pound the keyboard away!",
-    "img": "./src/assets/images/boredomBuster/hacker.png"
+    "imageSrc": "./src/assets/images/boredomBuster/hacker.png"
   },
   {
     "title": "Paper Toilet",
     "link": "https://www.papertoilet.com/",
     "description": "Have fun wasting toilet paper without a care in the world on this interactive site.",
-    "img": "./src/assets/images/boredomBuster/looroll.png"
+    "imageSrc": "./src/assets/images/boredomBuster/looroll.png"
   },
   {
     "title": "ChatGPT",
     "link": "https://www.chatgpt.com/",
     "description": "If you're looking for some good ideas or just some simple entertainment, go onto ChatGPT—you can ask it anything, including any of these 101+ ChatGPT prompts.",
-    "img": "./src/assets/images/boredomBuster/gpt.png"
+    "imageSrc": "./src/assets/images/boredomBuster/gpt.png"
   },
   {
     "title": "Pointer Pointer",
     "link": "https://pointerpointer.com/",
     "description": "Looking to really get lost in the quirky and weird? Look at this site and expect a few chuckles!",
-    "img": "./src/assets/images/boredomBuster/pointer.png"
+    "imageSrc": "./src/assets/images/boredomBuster/pointer.png"
   },
   {
     "title": "Wordle",
-    "link": "https://www.powerlanguage.co.uk/wordle/",
+    "link": "https://www.nytimes.com/games/wordle/index.html",
     "description": "If you're not still doing Wordle, it's a great time to start up again.",
-    "img": "./src/assets/images/boredomBuster/wordle.png"
+    "imageSrc": "./src/assets/images/boredomBuster/wordle.png"
   },
   {
     "title": "Staggering Beauty",
     "link": "http://staggeringbeauty.com/",
     "description": "Make the virtual worm dance with your mouse when you click on this fun website! Warning: this site does contain flashing images that may trigger some viewers.",
-    "img": "./src/assets/images/boredomBuster/wavy.png"
+    "imageSrc": "./src/assets/images/boredomBuster/wavy.png"
   },
   {
     "title": "Scream Into the Void",
     "link": "http://www.screamintothevoid.com/",
     "description": "This website invites you to get it all out. Take out all your outrage about any situation in your life and hit the scream button which throws it all out into the void.",
-    "img": "./src/assets/images/boredomBuster/scream.png"
+    "imageSrc": "./src/assets/images/boredomBuster/scream.png"
   },
   {
     "title": "Duotrigordle",
     "link": "https://duotrigordle.com/",
     "description": "Solve 32 Wordle puzzles at once on this site!",
-    "img": "./src/assets/images/boredomBuster/duotrigordle.png"
+    "imageSrc": "./src/assets/images/boredomBuster/duotrigordle.png"
   },
   {
     "title": "Don't Even Reply",
     "link": "http://www.dontevenreply.com/",
     "description": "If you want a good chuckle (or some commiserating validation), check out Don’t Even Reply and read some real-life emails that are side-splittingly funny. We recommend starting off with Angry Fish Tank Guy!",
-    "img": "./src/assets/images/boredomBuster/no-reply.png"
+    "imageSrc": "./src/assets/images/boredomBuster/no-reply.png"
   },
   {
     "title": "Stellarium",
     "link": "https://stellarium-web.org/",
     "description": "If you live in a big city or an area filled with light pollution, it’s probably been a hot minute since you’ve seen a night sky full of stars. Take a peek at this online planetarium to see which constellations and planets are out tonight!",
-    "img": "./src/assets/images/boredomBuster/stellarium.png"
+    "imageSrc": "./src/assets/images/boredomBuster/stellarium.png"
   },
   {
     "title": "Shut Up and Take My Money",
     "link": "https://www.shutupandtakemymoney.com/",
     "description": "Take your online shopping obsession to the next level with this fun website filled with cool gadgets and gizmos! This is also perfect to start shopping for unique stocking stuffers and fun little gifts for the holidays.",
-    "img": "./src/assets/images/boredomBuster/take-money.png"
+    "imageSrc": "./src/assets/images/boredomBuster/take-money.png"
   },
   {
     "title": "2048",
     "link": "https://play2048.co/",
     "description": "This website takes the best parts of elementary school math and Tetris and combines them into this fun game of 2048! Using your arrow keys, try combining numbers until you reach the sequence 2048.",
-    "img": "./src/assets/images/boredomBuster/2048.png"
+    "imageSrc": "./src/assets/images/boredomBuster/2048.png"
   },
   {
     "title": "Wikipedia’s List of Individual Dogs",
     "link": "https://en.wikipedia.org/wiki/List_of_individual_dogs",
     "description": "Did you ever want to know what Air Bud’s real name is? Or learn about the heartwarming tale of Greyfriars Bobby? Waste away your boredom and be tickled pink when you scroll through this fun website full of famous individual dogs!",
-    "img": "./src/assets/images/boredomBuster/list-dogs.png"
+    "imageSrc": "./src/assets/images/boredomBuster/list-dogs.png"
   },
   {
     "title": "Zoom Quilt",
     "link": "http://zoomquilt.org/",
     "description": "If you’re looking to bide some time while having a hypnotizing experience, check out this fun website where a picture infinitely zooms in to create and reveal new pictures.",
-    "img": "./src/assets/images/boredomBuster/zoom-quilt.png"
+    "imageSrc": "./src/assets/images/boredomBuster/zoom-quilt.png"
   },
   {
     "title": "Astronomy Picture of the Day",
     "link": "https://apod.nasa.gov/apod/astropix.html",
     "description": "Discover the cosmos from the best of the best with NASA’s astronomy picture of the day! You’ll get to see a stunning photo of space while also learning something with the explorative caption underneath.",
-    "img": "./src/assets/images/boredomBuster/astronomy.png"
+    "imageSrc": "./src/assets/images/boredomBuster/astronomy.png"
   },
   {
     "title": "MuscleWiki",
     "link": "https://musclewiki.org/",
     "description": "Fine-tune your workout with this fun website, MuscleWiki. It not only gives you a full diagram of the muscles in your body but how to stretch and work them out!",
-    "img": "./src/assets/images/boredomBuster/muscle-wiki.png"
+    "imageSrc": "./src/assets/images/boredomBuster/muscle-wiki.png"
   },
   {
     "title": "Duolingo",
     "link": "https://www.duolingo.com/",
     "description": "Make the most of your free time and cross something off your bucket by becoming fluent in a different language with the help of Duolingo! This fun website also doubles as a fun free app on your phone so you never miss a lesson.",
-    "img": "./src/assets/images/boredomBuster/duolingo.png"
+    "imageSrc": "./src/assets/images/boredomBuster/duolingo.png"
   },
   {
     "title": "Internet Live Stats",
     "link": "https://www.internetlivestats.com/",
     "description": "You commonly hear the phrase everyone is on the internet but how many are there really? Find out how many tweets, Instagram posts, and emails are being sent in real-time!",
-    "img": "./src/assets/images/boredomBuster/live-stats.png"
+    "imageSrc": "./src/assets/images/boredomBuster/live-stats.png"
   },
   {
     "title": "Hubski",
     "link": "https://hubski.com/",
     "description": "Get fun and offbeat conversation topics with the help of Hubski! You’ll find different forums of thoughtful and unique conversations that will be a smash hit with friends.",
-    "img": "./src/assets/images/boredomBuster/thoughtful-web.png"
+    "imageSrc": "./src/assets/images/boredomBuster/thoughtful-web.png"
   },
   {
     "title": "This Is Sand",
     "link": "https://thisissand.com/",
     "description": "Everyone remembers the fun sand art smash hit craft of the 90s. Now, you can recreate priceless childhood memories in digital form! Just simply drag your mouse to make digital colorful sand art.",
-    "img": "./src/assets/images/boredomBuster/sand.png"
+    "imageSrc": "./src/assets/images/boredomBuster/sand.png"
   },
   {
     "title": "Lizard Point",
     "link": "https://www.lizardpoint.com/",
     "description": "Geography not your best subject in school? Lizard Point makes learning fun with virtual quizzes that help you broaden your horizons without all the stress of tests and final exams.",
-    "img": "./src/assets/images/boredomBuster/lizard-point.png"
+    "imageSrc": "./src/assets/images/boredomBuster/lizard-point.png"
   },
   {
     "title": "Radio Garden",
     "link": "http://radio.garden/",
     "description": "Ever wanted to hear what the radio was like in Paris or in Tokyo? Travel through the airwaves and see what is playing in local cities (literally any city) in real time.",
-    "img": "./src/assets/images/boredomBuster/radio-garden.png"
+    "imageSrc": "./src/assets/images/boredomBuster/radio-garden.png"
   },
   {
     "title": "Music Theory",
     "link": "https://www.musictheory.net/",
     "description": "Learn the language behind your favorite pieces of music with this fun website! They offer free lessons and exercises so you have all you need to become the next musical genius.",
-    "img": "./src/assets/images/boredomBuster/music-theory.png"
+    "imageSrc": "./src/assets/images/boredomBuster/music-theory.png"
   },
   {
     "title": "Radiooooo",
     "link": "https://radiooooo.com/",
     "description": "Take a step back in time with Radiooooo. Like the Radio Garden website, you can choose any region in the world and listen to the local airwaves. However, this site gives you a timeline so you can listen to the radio from not just anywhere, but anywhen in time! Have fun listening to 1960s French bops.",
-    "img": "./src/assets/images/boredomBuster/radioooo.png"
+    "imageSrc": "./src/assets/images/boredomBuster/radioooo.png"
   },
   {
     "title": "Sleepytime",
     "link": "https://sleepyti.me/",
     "description": "Is your sleeping schedule out of whack? This fun website calculates exactly when you need to go to sleep and wake up in order to get a good night’s sleep.",
-    "img": "./src/assets/images/boredomBuster/sleepopolis.png"
+    "imageSrc": "./src/assets/images/boredomBuster/sleepopolis.png"
   },
   {
     "title": "Passive Aggressive Password Machine",
     "link": "https://www.trypap.com/",
     "description": "If you ever wanted to know how strong your password is, simply type it into this machine and it will tell you what you need to work on!",
-    "img": "./src/assets/images/boredomBuster/pap.png"
+    "imageSrc": "./src/assets/images/boredomBuster/pap.png"
   },
   {
     "title": "CodeCademy",
     "link": "https://www.codecademy.com/",
     "description": "Why not pick up something new? Code Academy offers coding lessons with immediate feedback and real-world projects.",
-    "img": "./src/assets/images/boredomBuster/codecademy.png"
+    "imageSrc": "./src/assets/images/boredomBuster/codecademy.png"
   },
   {
     "title": "29a.ch",
     "link": "http://29a.ch/",
     "description": "Paint the cosmos with all the colors of the wind with this fun interactive creative site! It’s a great and mesmerizing way to relax and chill out after a long day.",
-    "img": "./src/assets/images/boredomBuster/29a.png"
+    "imageSrc": "./src/assets/images/boredomBuster/29a.png"
   },
   {
     "title": "Live Kitten Cam",
     "link": "https://explore.org/livecams/currently-live/kitten-rescue-cam",
     "description": "Fill your heart with absolute joy and forget about the world with this fun website that streams from a live webcam set up at Kitten Rescue Sanctuary in Los Angeles! Worried that you’ll be looking into an empty room? Don’t worry, they always have cute baby kittens either snuggling, playing and being overall adorable.",
-    "img": "./src/assets/images/boredomBuster/live-cam.png"
+    "imageSrc": "./src/assets/images/boredomBuster/live-cam.png"
   },
 
   {
     "title": "Step into a time machine and go back 10 years to play Flappy Bird online.",
     "link": "https://flappybird.io/",
     "description": "Relive the nostalgia of the early 2010s by playing Flappy Bird online, the addictive game that took the world by storm!",
-    "img": "./src/assets/images/boredomBuster/flappy.png"
+    "imageSrc": "./src/assets/images/boredomBuster/flappy.png"
   },
   {
     "title": "Join Letterboxd and log all of the movies you've seen.",
     "link": "https://letterboxd.com/",
     "description": "Create an account on Letterboxd and start logging all the movies you've watched. It's a great way to keep track of your cinematic journey!",
-    "img": "./src/assets/images/boredomBuster/letterbox.png"
+    "imageSrc": "./src/assets/images/boredomBuster/letterbox.png"
   },
 
   {
     "title": "Learn to Code with The Odin Project",
     "link": "https://www.theodinproject.com/",
     "description": "Embark on a journey to become a proficient web developer with The Odin Project. It offers free, open-source coding curriculum covering HTML, CSS, JavaScript, and more.",
-    "img": "./src/assets/images/boredomBuster/odin.png"
+    "imageSrc": "./src/assets/images/boredomBuster/odin.png"
   },
   {
     "title": "FreeCodeCamp",
     "link": "https://www.freecodecamp.org/",
     "description": "Join a global community of learners and developers on FreeCodeCamp. Learn to code for free with interactive lessons, projects, and certifications.",
-    "img": "./src/assets/images/boredomBuster/free-code-camp.png"
+    "imageSrc": "./src/assets/images/boredomBuster/free-code-camp.png"
   },
   {
     "title": "Codecademy",
     "link": "https://www.codecademy.com/",
     "description": "Start your coding journey with Codecademy. Learn to code interactively, for free, and at your own pace with hands-on projects.",
-    "img": "./src/assets/images/boredomBuster/codecademy.png"
+    "imageSrc": "./src/assets/images/boredomBuster/codecademy.png"
   },
   {
     "title": "TED Talks",
     "link": "https://www.ted.com/talks",
     "description": "Expand your horizons with TED Talks. Watch inspiring and thought-provoking talks from experts in various fields, covering a wide range of topics.",
-    "img": "./src/assets/images/boredomBuster/ted.png"
+    "imageSrc": "./src/assets/images/boredomBuster/ted.png"
   },
   {
     "title": "edX",
     "link": "https://www.edx.org/",
     "description": "Access thousands of online courses from top universities and institutions on edX. Learn new skills or deepen your knowledge with courses in various subjects.",
-    "img": "./src/assets/images/boredomBuster/edx.png"
+    "imageSrc": "./src/assets/images/boredomBuster/edx.png"
   },
   {
     "title": "CS50x - Introduction to Computer Science",
     "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science",
     "description": "Take Harvard's renowned CS50x course online for free. Learn the fundamentals of computer science and programming through this engaging and challenging course.",
-    "img": "./src/assets/images/boredomBuster/cs50.png"
+    "imageSrc": "./src/assets/images/boredomBuster/cs50.png"
   },
   {
     "title": "Nordic Larp Wiki",
     "link": "https://nordiclarp.org/wiki/Main_Page",
     "description": "Explore the world of live-action role-playing games (LARP) with the Nordic Larp Wiki. Discover resources, articles, and insights into this unique form of storytelling.",
-    "img": "./src/assets/images/boredomBuster/nordic-larp.png"
+    "imageSrc": "./src/assets/images/boredomBuster/nordic-larp.png"
   },
   {
     "title": "Little Alchemy 2",
     "link": "https://littlealchemy2.com/",
     "description": "Combine different elements to create new ones in this addictive and fun game. Explore the vast world of Little Alchemy 2 and see what creations you can come up with!",
-    "img": "./src/assets/images/boredomBuster/little_alchemy_2.png"
+    "imageSrc": "./src/assets/images/boredomBuster/little_alchemy_2.png"
   }
 ]
