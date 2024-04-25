@@ -10,11 +10,11 @@ const MemeFunComponent = async () => {
     method: "GET",
     url: "https://ronreiter-meme-generator.p.rapidapi.com/meme",
     params: {
-      top: "Top Text",
-      bottom: "Bottom Text",
-      meme: "Condescending-Wonka",
-      font_size: "50",
-      font: "Impact",
+      top: { topText },
+      bottom: { bottomText },
+      meme: { imageChoice },
+      font_size: { fontSizeChoice },
+      font: { fontChoice },
     },
     headers: {
       "X-RapidAPI-Key": "aeef6d6de3mshfec18a533464299p1bb9f9jsnba5e698e206b",
