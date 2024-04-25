@@ -12,6 +12,16 @@ const MemeFun = () => {
       <MemeGetImagesComponent />
       <MemeGetFont />
 
+      <h3>Select the Font Size</h3>
+      <select>
+        <option>12</option>
+        <option>16</option>
+        <option>24</option>
+        <option>32</option>
+        <option>48</option>
+        <option>64</option>
+        <option>72</option>
+      </select>
       <h3>Input text for the image(optional):</h3>
       <form>
         <input type="text" id="top-line" />
