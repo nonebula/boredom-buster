@@ -1,10 +1,11 @@
 import React, { useState } from "react";
+import { NavLink } from "react-router-dom";
 
-const Footer = () => {
+const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <footer className="bg-gray-800 text-white py-4 mt-12 w-screen">
+    <header className="bg-gray-800 text-white py-4 w-screen">
       <nav className="flex items-center justify-evenly px-4">
         <a href="/" className="text-xl font-bold">
           Boredom Buster
@@ -12,25 +13,28 @@ const Footer = () => {
         <div className="flex">
           <ul className="flex mr-6">
             <li className="mr-6">
-              <a href="#about">Home</a>
+              <NavLink to="/">Home</NavLink>
             </li>
             <li className="mr-6">
-              <a href="#skills">Brain Teasers</a>
+              <NavLink to="/brainteasers">Brain Teasers</NavLink>
             </li>
             <li className="mr-6">
-              <a href="#projects">Fun Facts & Randomness</a>
+              <NavLink to="/funfacts">Fun Facts</NavLink>
             </li>
             <li className="mr-6">
-              <a href="#contact">Rock Paper Scissors</a>
+              <NavLink to="/memefun">Meme Fun</NavLink>
             </li>
             <li className="mr-6">
-              <a href="#contact">Would You Rather?</a>
+              <NavLink to="/rockpaperscissors">Rock Paper Scissors</NavLink>
+            </li>
+            <li className="mr-6">
+              <NavLink to="/wouldyourather">Would You Rather</NavLink>
             </li>
           </ul>
         </div>
       </nav>
-    </footer>
+    </header>
   );
 };
 
-export default Footer;
+export default Navbar;

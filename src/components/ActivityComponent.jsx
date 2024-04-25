@@ -40,7 +40,7 @@ class ActivityComponent extends Component {
           alt="Activity image"
         />
         <p className="text-center m-8">{randomActivity.description}</p>
-        <div className="flex flex-row justify-evenly text-center">
+        <div className="flex flex-row justify-evenly text-center gap-5">
           <button
             onClick={() => window.open(randomActivity.link)}
             className="btn bg-green-400 text-white font-bold mt-8 text-center"
