@@ -16,10 +16,10 @@ const Footer = () => {
               <NavLink to="/">Home</NavLink>
             </li>
             <li className="mr-6">
-              <NavLink to="/brainteasers">Brain Teasers</NavLink>
+              <NavLink to="/riddles">Riddles</NavLink>
             </li>
             <li className="mr-6">
-              <NavLink to="/funfacts">Fun Facts</NavLink>
+              <NavLink to="/memefun">Meme Fun</NavLink>
             </li>
             <li className="mr-6">
               <NavLink to="/rockpaperscissors">Rock Paper Scissors</NavLink>
