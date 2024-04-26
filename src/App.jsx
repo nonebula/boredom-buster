@@ -8,7 +8,7 @@ import Footer from "./components/core/Footer";
 // import Brainteasers from "./components/Brainteasers";
 // import FunFacts from "./components/FunFacts";
 // import RockPaperScissorsComponent from "./components/RockPaperScissorsComponent";
-// import WouldYouRatherComponent from "./components/WouldYouRatherComponent";
+import WouldYouRatherComponent from "./components/WouldYouRatherComponent";
 
 function App() {
   return (
@@ -20,8 +20,8 @@ function App() {
         <Route path="/memefun" element={<MemeFun />} />
         {/* <Route path="/brainteasers" element={<Brainteasers />} />
         <Route path="/funfacts" element={<FunFacts />} />
-        <Route path="/rockpaperscissors" element={<RockPaperScissorsComponent />} />
-        <Route path="/wouldyourather" element={<WouldYouRatherComponent />} /> */}
+        <Route path="/rockpaperscissors" element={<RockPaperScissorsComponent />} /> */}
+        <Route path="/wouldyourather" element={<WouldYouRatherComponent />} /> 
       </Routes>
       <Footer />
     </BrowserRouter>
