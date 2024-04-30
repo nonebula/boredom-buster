@@ -25,9 +25,17 @@ const RiddleComponent = () => {
     <div className="h-screen text-center">
       <h1 className="font-bold mt-10">Riddles</h1>
       <div className="flex justify-center mt-10">
-        <button className="btn rounded-xl bg-blue-600 text-white">
-          Riddle
-        </button>
+        <div className="w-1/2">
+          <h1 className="text-2xl font-bold">Riddle</h1>
+          <p className="text-xl">What has keys but can't open locks?</p>
+          <input
+            type="text"
+            className="border-2 border-blue-600 w-1/2 rounded-xl p-2 mt-5"
+          />
+          <button className="btn rounded-xl bg-blue-600 text-white">
+            New Riddle
+          </button>
+        </div>
       </div>
     </div>
   );

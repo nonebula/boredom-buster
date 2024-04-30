@@ -25,6 +25,9 @@ const MemeCaptions = () => {
       <h3 className="font-bold text-xl mt-5 mb-5">
         Step 4: Input text for the image(optional):
       </h3>
+
+      {/* Make sure to match the form label (htmlFor to input id for easy matchup) */}
+
       <form className="rounded-xl border flex flex-col gap-5">
         <input
           type="text"
