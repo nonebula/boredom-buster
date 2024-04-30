@@ -7,7 +7,7 @@ import ActivityComponent from "./components/ActivityComponent";
 import Footer from "./components/core/Footer";
 import RiddleComponent from "./components/RiddleComponent";
 import RockPaperScissorsComponent from "./components/RockPaperScissorsComponent";
-// import WouldYouRatherComponent from "./components/WouldYouRatherComponent";
+import WouldYouRatherComponent from "./components/WouldYouRatherComponent";
 
 function App() {
   return (
@@ -22,7 +22,7 @@ function App() {
           path="/rockpaperscissors"
           element={<RockPaperScissorsComponent />}
         />
-        {/* <Route path="/wouldyourather" element={<WouldYouRatherComponent />} /> */}
+        <Route path="/wouldyourather" element={<WouldYouRatherComponent />} />
       </Routes>
       <Footer />
     </BrowserRouter>

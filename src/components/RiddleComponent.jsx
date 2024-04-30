@@ -5,7 +5,6 @@ const RiddleComponent = () => {
   const [riddle, setRiddle] = useState("");
   const [error, setError] = useState(null);
 
-  // Function to fetch a new riddle
   const fetchNewRiddle = async () => {
     try {
       const options = {
@@ -19,19 +18,17 @@ const RiddleComponent = () => {
       };
 
       const response = await axios.request(options);
-      setRiddle(response.data.riddles[0].question); // Assuming the response structure has the riddle question
-      setError(null); // Reset error if fetching is successful
+      setRiddle(response.data.riddles[0].question);
+      setError(null);
     } catch (error) {
-      setError("API is overloaded. Please try again later."); // Set error message
+      setError("API is overloaded. Please try again later.");
     }
   };
 
-  // Fetch initial riddle on component mount
   useEffect(() => {
     fetchNewRiddle();
   }, []);
 
-  // Static riddles to display when API is overloaded
   const staticRiddles = [
     "What has a head, a tail, is brown, and has no legs? A penny.",
     "What has to be broken before you can use it? An egg.",
