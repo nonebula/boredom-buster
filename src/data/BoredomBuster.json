@@ -3,38 +3,38 @@
     "title": "Learn the Scale of the Universe!",
     "link": "https://htwins.net/scale2/",
     "description": "Discover how vast the universe is by exploring the scale of celestial objects. Prepare to be amazed!",
-    "imageSrc": "./src/assets/images/boredomBuster/scale-of-the-universe.png"
+    "imageSrc": "/src/assets/images/boredomBuster/scale-of-the-universe.png"
   },
   {
     "title": "Listen to Your Birthday Song",
     "link": "https://playback.fm/birthday-song",
     "description": "Find out what song ruled the charts on the day you were born. It's a trip down memory lane!",
-    "imageSrc": "./src/assets/images/boredomBuster/birthday-song.png"
+    "imageSrc": "/src/assets/images/boredomBuster/birthday-song.png"
   },
   {
     "title": "Make a Collage from Your Photo",
     "link": "https://retoucher.online/",
     "description": "Turn your photos into vibrant collages or eye-catching avatars. Let your creativity run wild!",
-    "imageSrc": "./src/assets/images/boredomBuster/make-collage.png"
+    "imageSrc": "/src/assets/images/boredomBuster/make-collage.png"
   },
   {
     "title": "Create Funny Mixes",
     "link": "https://www.incredibox.com/",
     "description": "Craft amazing music mixes and share your unique tracks with friends. Let the beats flow!",
-    "imageSrc": "./src/assets/images/boredomBuster/incredlibox.png"
+    "imageSrc": "/src/assets/images/boredomBuster/incredlibox.png"
   },
   {
     "title": "Draw a Stickman",
     "link": "https://drawastickman.com/",
     "description": "Revisit your childhood doodles by drawing a stickman and embarking on whimsical adventures. Let your imagination soar!",
-    "imageSrc": "./src/assets/images/boredomBuster/draw-stickman.png"
+    "imageSrc": "/src/assets/images/boredomBuster/draw-stickman.png"
   },
 
   {
     "title": "Help to End Hunger",
     "link": "https://freerice.com/",
     "description": "Test your knowledge while making a difference. For each correct answer, rice is donated to the hungry. Game for good!",
-    "imageSrc": "./src/assets/images/boredomBuster/free-rice.png"
+    "imageSrc": "/src/assets/images/boredomBuster/free-rice.png"
   },
   {
     "title": "Make Everything OK",
