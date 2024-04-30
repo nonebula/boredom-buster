@@ -3,7 +3,7 @@ import "./App.css";
 import Navbar from "./components/core/Navbar";
 import Hero from "./components/core/Hero";
 import ActivityComponent from "./components/ActivityComponent";
-// import MemeFun from "./pages/MemeFun";
+import MemeFun from "./pages/MemeFun";
 import Footer from "./components/core/Footer";
 import RiddleComponent from "./components/RiddleComponent";
 import RockPaperScissorsComponent from "./components/RockPaperScissorsComponent";
@@ -16,7 +16,7 @@ function App() {
       <Hero />
       <Routes>
         <Route path="/" element={<ActivityComponent />} />
-        {/* <Route path="/memefun" element={<MemeFun />} /> */}
+        <Route path="/memefun" element={<MemeFun />} />
         <Route path="/riddles" element={<RiddleComponent />} />
         <Route
           path="/rockpaperscissors"
