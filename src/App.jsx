@@ -5,7 +5,7 @@ import Hero from "./components/core/Hero";
 import ActivityComponent from "./components/ActivityComponent";
 // import MemeFun from "./pages/MemeFun";
 import Footer from "./components/core/Footer";
-// import RiddleComponent from "./components/RiddleComponent";
+import RiddleComponent from "./components/RiddleComponent";
 import RockPaperScissorsComponent from "./components/RockPaperScissorsComponent";
 // import WouldYouRatherComponent from "./components/WouldYouRatherComponent";
 
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<ActivityComponent />} />
         {/* <Route path="/memefun" element={<MemeFun />} /> */}
-        {/* <Route path="/riddles" element={<RiddleComponent />} /> */}
+        <Route path="/riddles" element={<RiddleComponent />} />
         <Route
           path="/rockpaperscissors"
           element={<RockPaperScissorsComponent />}
